@@ -204,6 +204,11 @@ https://app.botsociety.io/s/5c79579d84d70a516413df41?p=79805c18deb98a8f3805aba34
 
 https://docs.google.com/presentation/d/1WNWNGVJ5tAbBDki4hKySumTXXhl4hxeOZkq3qhu0Cuo/edit#slide=id.g521e55188f_0_12
 
+
+### Zeplin
+
+zpl.io/agzjrv0
+
 ### Link de carpeta
 
 https://drive.google.com/drive/folders/16iY3Bkc_8HoS9mUHpigo7lKVJ8IMHXoK
