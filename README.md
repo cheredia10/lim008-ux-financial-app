@@ -2,9 +2,9 @@
 
 ## Antecedentes
 
-El banco más importante del país nos ha contratado para evaluar la dirección y evolución de su aplicación secundaria que permite a sus clientes llevar el control de sus gastos y fomentar el ahoro a través de la creación de metas de ahorro.
+El banco más importante del país nos ha contratado para evaluar la dirección y evolución de su aplicación secundaria que permite a sus clientes llevar el control de sus gastos y fomentar el ahorro a través de la creación de metas.
 
-El cliente nos ha entregado la información más relevante de los 6 meses desde su lanzamiento, entre los cuales se encuentra los funnels, donde se puede visualizar las impresiones realizadas en facebook, visitas al landing page, visitas al app store, instalaciones, y sign ups. Asimismo nos hicieron entrega de los dos User Persona el princial es FIORELLA - 18 años y el secundario es DIEGO - 31 años. 
+El cliente nos ha entregado la información más relevante de los 6 meses desde su lanzamiento, entre los cuales se encuentra los funnels, donde se puede visualizar las impresiones realizadas en facebook, visitas al landing page, visitas al app store, instalaciones, y sign ups. Asimismo nos hicieron entrega de los dos User Persona el principal es FIORELLA - 18 años y el secundario es DIEGO - 31 años. 
 
 ![Fiorella-Primaria](https://user-images.githubusercontent.com/45071312/54237301-9e8fcd00-44e3-11e9-8684-d304b4c5d3dc.png)
 
@@ -31,11 +31,11 @@ Revisando la información entregada por el cliente, pudimos sacar las siguientes
 
 ## Investigación
 
-Como parte de la investigación y entendimiento del problema utilizamos diversas herramientas que nos permita ayudar a nuestro cliente:
+Como parte de la investigación y entendimiento del problema utilizamos diversas herramientas que nos permitiera ayudar a nuestro cliente:
 
 ### 1. Entrevista con el Cliente 
 
-El cliente nos mencionaba en la entrevista que le realizamos que:
+El cliente nos mencionaba en la entrevista que le realizamos lo siguiente:
 
 >"Debíamos de entender que funcionó y qué no, corregir los errores e iterar para poder sacar una versión 2.0."
 
@@ -46,11 +46,11 @@ El cliente nos mencionaba en la entrevista que le realizamos que:
 
 ### 2. Entrevista con usuarios
 
-Una de las hipótesis que teníamos al revisar todo el contenido proporcionado por el cliente era el user persona principal Fiorella de 18 años, quien por lo leído en su descripción era una muchacha que frecuentaba el Sturbucks, además que no se mencionaba que trabajara, sino que era estudiante y que por deducción se pensaba que el dinero que ella obtenía era proporcionada por sus padres, asimismo por las caracteríticas que se mencionaba dentro se podía deducir que era una joven de clase social tipo A o B.
+Una de las hipótesis que teníamos al revisar todo el contenido proporcionado por el cliente era el user persona principal Fiorella de 18 años, quien por lo leído en su descripción era una muchacha que frecuentaba el Starbucks, además que no se mencionaba que trabajara, sino que era estudiante y que por ende se pensaba que el dinero que ella obtenía era proporcionado por sus padres, asimismo por las caracteríticas que se mencionaba dentro se podía deducir que era una joven de clase social tipo A o B.
 
 Es por ello que decidimos realizar el trabajo de campo y fuimos en búsqueda de Fiorella, nos dirigimos al centro Comercial Jockey Plaza y entrevistamos a 6 jóvenes que cumplían algunas de las características de nuestro User Persona principal. 
 
-Asimismo entrevistamos a 5 personas de nuestro user persona secundario, quienes pudimos comprobar que algunas de las cosas que nos mencionaban eran realmente ciertas, pero descubrimos que las personas de esta generación "No confía en las apps financieras".
+Entrevistamos a 5 personas de nuestro user persona secundario, con quienes pudimos comprobar que algunas de las cosas que nos mencionaban eran realmente ciertas, pero descubrimos que las personas de esta generación "No confía en las apps financieras".
 
 Algunas de las conclusiones que sacamos de nuestras entrevistas son:
 
@@ -75,7 +75,7 @@ Realizamos un benchmark con las principales aplicaciones financieras del país, 
 
 ### 4. Testing remoto
 
-Entre las herramientas nuevas que utilizamos en este proyecto fue Maze, quien nos brindaba un mapa de calor de las interacciones que realizaban nuestros usuarios con la aplicación.
+Entre las herramientas nuevas que utilizamos en este proyecto fue Maze, que nos brindaba un mapa de calor de las interacciones que realizaban nuestros usuarios con la aplicación.
 
 Es preciso indicar que nosotras decidimos probar con el aplicativo actual que tenía el banco, a fin de evaluar cuales eran los puntos que debíamos de mejorar.
 
@@ -96,7 +96,7 @@ A continuación mostraremos algunas gráficas que nos arrojó esta herramienta.
 
 ### 1.  Affinity Map
 
-Con las entrevistas realizadas realizamos el Affinity Map, que nos sirvió para sacar las conclusiones necesarias sobre las necesidades de nuestros usuarios. 
+Con las entrevistas realizadas pudimos armar el Affinity Map, que nos sirvió para poder encontrar las verdaderas necesidades de nuestros usuarios. 
 
 ![Affinity Map](https://user-images.githubusercontent.com/45071312/54240217-6d1aff80-44eb-11e9-84ec-a2e1a1c4b387.jpg)
 
@@ -157,7 +157,7 @@ Cuando se realizaron los cambios mínimos viables, decidimos realizar un segundo
 - "Hay letras que no se pueden observar"
 - "El contraste de algunos colores es demasiado fuerte"
 
-Es por ello y teniendo en cuenta nuestro publiclo objetivo se realizaron cambios en la app a fin que pueda ser más amigable, llegue a nuestro público objetivo y les brinde la seguridad necesaria.
+Es por ello y teniendo en cuenta nuestro público objetivo se realizaron cambios en la app a fin que pueda ser más amigable, llegue a nuestro público objetivo y les brinde la seguridad necesaria.
 
 ### Link de videos de testeos
 
@@ -176,15 +176,15 @@ https://lookback.io/watch/RTXDxSqp8MqJp7mDa
 
 Las principales recomendaciones para nuestros clientes son:
 
-1. El Landing page debería de cambiar el contraste de color, ya que nuestro usuarios indicaban que no podían leer de manera clara las letras blancas con el color verde claro. Asimismo al realizar el test de contraste se los colores no pasaron la prueba.
-El teléfono del landing se pierde con el fondo blanco de la página.
+1. El Landing page debería de cambiar el contraste de color, ya que nuestro usuarios indicaban que no podían leer de manera clara las letras blancas con el color verde claro. Asimismo al realizar el test de contraste de los colores no pasaron la prueba.
+El celular Iphone del landing se pierde con el fondo blanco de la página.
 El enlace de descarga debería de enviar directamente al app store, ya que actualmente se encuentra linkeado hacia un formulario inferior donde se le solicitan datos y luego recién se procede a enviar al app store.
 
 2. Teniendo en cuenta que en las entrevistas realizadas a los usuarios mencionaban que la red social que más utilizaban es INSTAGRAM, la empresa debería considerar que su próxima impresión deberá dería de ser en esta red social.
 
 3. En el análisis de datos se pudo detectar que el 93% de los usuarios que ingresaban al Landing Page era de dispositivos ANDROID, la empresa debería de considerar lanzar su aplicación para este tipo de dispositivo a fin de captar a sus clientes que aun no están trabajando con esta aplicación.
 
-4. De acuerdo al research y el análisis de la información recibida, se ha creado un protitpo que es amigable e intuitiva. Asimismo mejoramos el tema de la seguridad, lo que brindará al usuario confianza y tranquilidad para poder utilizar la aplicación.
+4. De acuerdo al research y el análisis de la información recibida, se ha creado un protitpo que es amigable e intuitivo. Asimismo mejoramos el tema de la seguridad, lo que brindará al usuario confianza y tranquilidad para poder utilizar la aplicación.
 
 ## LINKS
 
